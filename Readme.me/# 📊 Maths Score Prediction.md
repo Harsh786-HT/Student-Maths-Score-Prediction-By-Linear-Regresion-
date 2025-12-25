@@ -79,7 +79,9 @@ Scikit-learn
 ###### \## 📈 Key Insights
 
 1.A positive correlation exists between study-related factors and math scores.
+
 2.Linear Regression effectively models the relationship between features and the target variable.
+
 3.The model provides a good baseline for predicting academic performance.
 
 
