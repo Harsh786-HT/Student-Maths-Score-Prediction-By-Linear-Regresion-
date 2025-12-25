@@ -91,7 +91,9 @@ Scikit-learn
 ###### \## 🖥️ Model / Output
 
 1.The trained Linear Regression model predicts math scores based on input features.
+
 2.Visualizations such as regression lines and performance plots are used to analyze results.
+
 3.Model evaluation metrics include:
 Mean Squared Error (MSE)
 R² Score
@@ -103,7 +105,9 @@ R² Score
 ###### \## ▶️ How to Run This Project
 
 1.Clone the repository
+
 2.Open the Jupyter notebook
+
 3.Run the cells Sequentially
 
 
